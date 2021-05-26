@@ -7,7 +7,7 @@ authors = [
 ]
 edition = "2018"
 description = "Asynchronous copying with progress callbacks."
-repository = "https://github.com/edu-sync/async-copy-progress"
+repository = "https://github.com/mkroening/async-copy-progress"
 license = "MIT OR Apache-2.0"
 keywords = ["futures", "async", "future"]
 categories = ["asynchronous"]
