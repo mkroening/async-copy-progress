@@ -1,0 +1,21 @@
+[package]
+name = "async-copy-progress"
+version = "0.0.0"
+authors = [
+    "Martin Kröning <mkroening@posteo.net>",
+    "Contributors to futures-rs",
+]
+edition = "2018"
+description = "Asynchronous copying with progress callbacks."
+repository = "https://github.com/edu-sync/async-copy-progress"
+license = "MIT OR Apache-2.0"
+keywords = ["futures", "async", "future"]
+categories = ["asynchronous"]
+
+[dependencies]
+futures-core = "0.3"
+futures-io = "0.3"
+pin-project-lite = "0.2"
+
+[dev-dependencies]
+spin_on = "0.1.0"
