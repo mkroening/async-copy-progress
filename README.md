@@ -12,7 +12,7 @@ This library provides an asynchronous copy function which calls a function with 
 
 ```toml
 [dependencies]
-async-copy-progress = "0.0.0"
+async-copy-progress = "1.0"
 ```
 
 <br>
